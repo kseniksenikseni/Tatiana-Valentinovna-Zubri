@@ -79,8 +79,6 @@ header{
     width: 1440px;
 }
 .block{
-    display: flex;
-    justify-content: space-between;
     width: 1440px;
     margin-top: 30px;
 }
@@ -111,4 +109,77 @@ footer{
     width: 300px;
     padding-top: 30px;
     margin-left: 980px;
+}
+@media screen and (max-width: 1921px) {
+    .content { 
+        width:650px;
+        }
+        header{
+            height: 50px;   
+        }
+        .main_1{
+            padding-top: 30px;
+        }
+        .navigation{
+            width: 400px;
+            padding-top: 15px;
+            margin-left: 370px;
+        }
+        .a1{
+            font-size: 13px;
+        }
+        .p_name{
+            font-size: 23px;
+            margin-top: 0px;
+        }
+        .p_zam{
+            font-size: 17px;
+            font-weight: 500;
+            text-align: center;
+            margin-top: 15px;
+        }
+        .knopka{
+            margin-top: 50px;
+            width: 100px;
+        }
+        .img {
+            transition: 0.3s; 
+                }
+                .img:hover {
+                    transform: scale(1.1); 
+                }
+        .h1{
+            font-size: 15px;
+            font-weight: 400;
+        }
+        .img{
+            width: 25px;;
+            margin-top: -7px;
+        }
+        .main1{
+            width: 650px;
+        }
+        .block{
+            width: 650px;
+            margin-top: 20px;
+        }
+        .h{
+            margin-top: 30px;
+            font-size: 18px;
+        }
+        .foto{
+           height: 220px;
+        }
+        .foto1{
+            height:225px;
+        }
+        footer{
+            height: 70px;
+            margin-top: 50px;
+        }
+        .navigation1{
+            width: 150px;
+            padding-top: 25px;
+            margin-left: 500px;
+        }
 }
