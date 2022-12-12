@@ -390,6 +390,9 @@ footer{
         }
 }
 @media screen and (max-width: 426px) {
+    .site{
+        width: 425px;
+    }
     .content { 
         width:390px;
         }
