@@ -518,8 +518,8 @@ footer{
     .content { 
         width:340px;
         }
-        header{
-            height: 30px;   
+        /* header{ */
+            /* height: 30px;   
         }
         .main_1{
             padding-top: 30px;
@@ -631,5 +631,5 @@ footer{
             width: 90px;
             padding-top: 10px;
             margin-left: 160px;
-        }
+        } */
 }
