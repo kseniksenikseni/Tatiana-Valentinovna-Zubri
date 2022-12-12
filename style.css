@@ -512,33 +512,31 @@ footer{
         }
 }
 @media screen and (max-width: 376px) {
-    .site{
-        width: 375px;
-    }
     .content { 
-        width:340px;
+        width:350px;
         }
-        /* header{ */
-            /* height: 30px;   
+        header{
+            height: 25px;   
+            width: 375px;
         }
         .main_1{
-            padding-top: 30px;
+            padding-top: 25px;
         }
         .navigation{
-            width: 240px;
-            padding-top: 5px;
+            width: 180px;
+            padding-top: 0px;
             margin-left: 100px;
         }
         .a1{
-            font-size: 7px;
+            font-size: 6px;
         }
         .p_name{
-            font-size: 15px;
-            margin-top: 20px;
+            font-size: 13px;
+            margin-top: 15px;
         }
         .p_zam{
-            font-size: 13px;
-            margin-top: 10px;
+            font-size: 11px;
+            margin-top: px;
         }
         .main_2{
             flex-direction: column;
@@ -631,5 +629,5 @@ footer{
             width: 90px;
             padding-top: 10px;
             margin-left: 160px;
-        } */
+        }
 }
