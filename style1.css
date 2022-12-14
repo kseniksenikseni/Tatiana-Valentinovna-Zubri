@@ -176,3 +176,81 @@ footer{
             margin-left: 500px;
         }
 }
+@media screen and (max-width: 321px) {
+    .content { 
+        width:300px;
+        }
+        header{
+            height: 25px;   
+            width: 320px;
+        }
+        .main_1{
+            padding-top: 25px;
+        }
+        .navigation{
+            width: 180px;
+            padding-top: 0px;
+            margin-left: 80px;
+        }
+        .a1{
+            font-size: 7px;
+        }
+        .p_name{
+            font-size: 13px;
+            margin-top: 0px;
+            margin-right: 0px;
+        }
+        .p_zam{
+            font-size: 11px;
+            margin-top: 10px;
+            margin-right: 0px;
+        }
+        .block{
+            flex-direction: column;
+            width: 300px;
+            margin-top: 20px;
+        }
+        
+            .knopka{
+                margin-top: 30px;
+                width: 150px;
+                margin-left: 20px;
+            }
+            .img {
+                transition: 0.2s; 
+                    }
+                    .img:hover {
+                        transform: scale(1.1); 
+                    }
+            .h1{
+                font-size: 11px;
+                font-weight: 400;
+                margin-top: 00px;
+            }
+            .img{
+                width: 18px;;
+                margin-top: -7px;
+            }
+            .main1{
+                width: 300px;
+            }
+            .foto{
+                width: 70%;
+                height: 70%;
+                margin-left: 50px;
+            }
+        .h{
+            margin-top: 20px;
+            font-size: 15px;
+            margin-left: 0px;
+        }
+        footer{
+            height: 40px;
+            margin-top: 40px;
+        }
+        .navigation1{
+            width: 90px;
+            padding-top: 10px;
+            margin-left: 110px;
+        }
+}
