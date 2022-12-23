@@ -205,13 +205,13 @@ footer{
         }
         .p_name{
             font-size: 13px;
-            margin-top: 0px;
-            margin-right: 0px;
+            margin-top: 15px;
+            margin-left: -50px;
         }
         .p_zam{
             font-size: 11px;
             margin-top: 10px;
-            margin-right: 0px;
+            margin-left: -50px;
         }
         .block{
             flex-direction: column;
