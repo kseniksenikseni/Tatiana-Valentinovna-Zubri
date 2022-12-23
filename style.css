@@ -666,7 +666,7 @@ footer{
         .main_2{
             flex-direction: column;
             margin-top: 20px;
-            width: 350px;
+            width: 300px;
         }
         .main_2_text_1{
             font-size: 11px;
@@ -711,7 +711,7 @@ footer{
         .main_4_blok{
             flex-direction: column;
             height: 530px;
-            width: 650px;
+            width: 300px;
             margin-left: 0px;
             margin-top: 20px;
         }
