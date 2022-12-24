@@ -536,12 +536,12 @@ footer{
         .p_name{
             font-size: 13px;
             margin-top: 15px;
-            margin-right: 70px;
+            margin-right: 60px;
         }
         .p_zam{
             font-size: 11px;
             margin-top: 10px;
-            margin-right: 70px;
+            margin-right: 60px;
         }
         .main_2{
             flex-direction: column;
@@ -552,7 +552,7 @@ footer{
             font-size: 10px;
             line-height: 20px;
             margin-top: -10px;
-            margin-left: 50px;
+            margin-left: 60px;
             width: 340px;
         }
         .main_2_text_quote{
@@ -577,7 +577,7 @@ footer{
         .zubry{
             width: 50%;
             height: 50%;
-            margin-left: 70px;
+            margin-left: 80px;
         }
         .main_2_text{
             margin-top: 30px;
