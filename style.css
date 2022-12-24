@@ -534,12 +534,12 @@ footer{
         .p_name{
             font-size: 13px;
             margin-top: 15px;
-            margin-right: 50px;
+            margin-right: 65px;
         }
         .p_zam{
             font-size: 11px;
             margin-top: 10px;
-            margin-right: 50px;
+            margin-right: 65px;
         }
         .main_2{
             flex-direction: column;
@@ -550,17 +550,17 @@ footer{
             font-size: 10px;
             line-height: 20px;
             margin-top: -10px;
-            margin-left: 55px;
+            margin-left: 30px;
             width: 340px;
         }
         .main_2_text_quote{
             margin-top: 10px;
-            width: 260px;
+            width: 210px;
         }
         .palka{
             width: 0.5px;
             height: 75px;
-            margin-left: 60px;
+            margin-left: 30px;
         }
         .quote_text{
             font-size: 9px;
@@ -575,7 +575,7 @@ footer{
         .zubry{
             width: 50%;
             height: 50%;
-            margin-left: 80px;
+            margin-left: 30px;
         }
         .main_2_text{
             margin-top: 30px;
@@ -584,13 +584,13 @@ footer{
         .h{
             margin-top: 30px;
             font-size: 15px;
-            margin-left: -50px;
+            margin-left: -90px;
         }
         .main_4_blok{
             flex-direction: column;
             height: 530px;
             width: 650px;
-            margin-left: 45px;
+            margin-left: 10px;
             margin-top: 20px;
         }
         .blok{
@@ -608,7 +608,7 @@ footer{
             flex-direction: column;
             margin-top: 20px;
             width: 650px;
-            margin-left: -45px;
+            margin-left: -80px;
             margin-top: 10px;
         }
         .documents_img{
@@ -632,7 +632,7 @@ footer{
         .navigation1{
             width: 90px;
             padding-top: 10px;
-            margin-left: 140px;
+            margin-left: 110px;
         }
 }
 @media screen and (max-width: 321px) {
