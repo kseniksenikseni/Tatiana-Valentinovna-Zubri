@@ -513,11 +513,11 @@ footer{
 }
 @media screen and (max-width: 376px) {
     .content { 
-        width:350px;
+        width:100%;
         }
         header{
             height: 25px;   
-            width: 375px;
+            width: 100%;
         }
         .main_1{
             padding-top: 25px;
@@ -525,7 +525,7 @@ footer{
         .navigation{
             width: 180px;
             padding-top: 0px;
-            margin-left: 100px;
+            margin-left: 40px;
         }
         .a1{
             font-size: 7px;
@@ -533,48 +533,48 @@ footer{
         .p_name{
             font-size: 13px;
             margin-top: 15px;
-            margin-right: 50px;
+            margin-right: 70px;
         }
         .p_zam{
             font-size: 11px;
             margin-top: 10px;
-            margin-right: 50px;
+            margin-right: 70px;
         }
         .main_2{
             flex-direction: column;
             margin-top: 20px;
-            width: 350px;
+            width: 340px;
         }
         .main_2_text_1{
-            font-size: 11px;
+            font-size: 10px;
             line-height: 20px;
             margin-top: -10px;
-            margin-left: 50px;
-            width: 390px;
+            margin-left: 40px;
+            width: 340px;
         }
         .main_2_text_quote{
             margin-top: 10px;
-            width: 260px;
+            width: 240px;
         }
         .palka{
             width: 0.5px;
-            height: 80px;
-            margin-left: 50px;
+            height: 75px;
+            margin-left: 40px;
         }
         .quote_text{
-            font-size: 10px;
-            line-height: 23px;
+            font-size: 9px;
+            line-height: 20px;
             margin-left: 0px;
         }
         .quote_name{
             font-size: 10px;
-            margin-left: 120px;
+            margin-left: 100px;
             margin-top: 0px;
         }
         .zubry{
             width: 50%;
             height: 50%;
-            margin-left: 70px;
+            margin-left: 50px;
         }
         .main_2_text{
             margin-top: 30px;
