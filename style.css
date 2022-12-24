@@ -512,11 +512,9 @@ footer{
         }
 }
 @media screen and (max-width: 376px) {
-    .site{
-        width: 375px;
-    }
+    
     .content { 
-        width:100%;
+        width:330px;
         }
         header{
             height: 25px;   
@@ -536,12 +534,12 @@ footer{
         .p_name{
             font-size: 13px;
             margin-top: 15px;
-            margin-right: 70px;
+            margin-right: 50px;
         }
         .p_zam{
             font-size: 11px;
             margin-top: 10px;
-            margin-right: 70px;
+            margin-right: 50px;
         }
         .main_2{
             flex-direction: column;
@@ -552,12 +550,12 @@ footer{
             font-size: 10px;
             line-height: 20px;
             margin-top: -10px;
-            margin-left: 50px;
+            margin-left: 55px;
             width: 340px;
         }
         .main_2_text_quote{
             margin-top: 10px;
-            width: 220px;
+            width: 260px;
         }
         .palka{
             width: 0.5px;
@@ -577,7 +575,7 @@ footer{
         .zubry{
             width: 50%;
             height: 50%;
-            margin-left: 70px;
+            margin-left: 80px;
         }
         .main_2_text{
             margin-top: 30px;
@@ -651,7 +649,7 @@ footer{
         .navigation{
             width: 180px;
             padding-top: 0px;
-            margin-left: 100px;
+            margin-left: 70px;
         }
         .a1{
             font-size: 7px;
