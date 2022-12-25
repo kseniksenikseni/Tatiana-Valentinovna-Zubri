@@ -539,7 +539,7 @@ footer{
         .p_zam{
             font-size: 11px;
             margin-top: 10px;
-            margin-right: 65px;
+            margin-right: 75px;
         }
         .main_2{
             flex-direction: column;
@@ -547,7 +547,7 @@ footer{
             width: 340px;
         }
         .main_2_text_1{
-            font-size: 10px;
+            font-size: 9px;
             line-height: 20px;
             margin-top: -10px;
             margin-left: 30px;
@@ -632,7 +632,7 @@ footer{
         .navigation1{
             width: 90px;
             padding-top: 10px;
-            margin-left: 110px;
+            margin-left: 120px;
         }
 }
 @media screen and (max-width: 321px) {
