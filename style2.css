@@ -308,6 +308,100 @@ footer{
             margin-left: 110px;
         }
 }
+@media screen and (max-width: 376px) {
+    .content { 
+        width:330px;
+        }
+        header{
+            height: 25px;   
+            width: 100%;
+        }
+        .main_1{
+            padding-top: 25px;
+        }
+        .navigation{
+            width: 180px;
+            padding-top: 0px;
+            margin-left: 80px;
+        }
+        .a1{
+            font-size: 7px;
+        }
+        .p_name{
+            font-size: 13px;
+            margin-top: -10px;
+            margin-right:35px;
+        }
+        .p_zam{
+            font-size: 10px;
+            margin-top: 10px;
+            margin-right: 45px;
+        }
+        .h{
+            margin-top: 20px;
+            font-size: 15px;
+            margin-left: -40px;
+        }
+        .block{
+            flex-direction: column;
+            width: 300px;
+            margin-top: 10px;
+            margin-left: 30px;
+        }
+        
+            .knopka{
+                margin-top: 30px;
+                width: 140px;
+                margin-left: 30px;
+            }
+            .img {
+                transition: 0.2s; 
+                    }
+                    .img:hover {
+                        transform: scale(1.1); 
+                    }
+            .h1{
+                font-size: 11px;
+                font-weight: 400;
+                margin-top: 00px;
+            }
+            .img{
+                width: 18px;;
+                margin-top: -7px;
+            }
+            .main1{
+                width: 300px;
+            }
+        .h{
+            margin-top: 20px;
+            font-size: 15px;
+            margin-left: 0px;
+        }
+
+        .foto{
+            width: 76%;
+            height: 76%;
+            margin-top: 10px;
+            mask-repeat: 3px;
+        }
+        .foto1{
+            width: 75%;
+            height: 75%;
+        }
+        .foto2{
+            width: 75%;
+            height: 75%;
+        }
+        footer{
+            height: 40px;
+            margin-top: 40px;
+        }
+        .navigation1{
+            width: 90px;
+            padding-top: 10px;
+            margin-left: 120px;
+        }
+}
 @media screen and (max-width: 321px) {
     .content { 
         width:300px;
