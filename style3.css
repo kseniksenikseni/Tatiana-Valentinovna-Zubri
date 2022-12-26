@@ -17,6 +17,9 @@ background-color: white;
 a{
     text-decoration: none;
 }
+.zzz{
+    text-align: center;
+}
 .aa:hover{
     font-weight:bold;
 }
@@ -194,6 +197,9 @@ footer{
         }
         .main_1{
             padding-top: 25px;
+        }
+        .zzz{
+            text-align: center;
         }
         .navigation{
             width: 180px;
