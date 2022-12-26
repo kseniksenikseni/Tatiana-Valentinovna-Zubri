@@ -534,12 +534,12 @@ footer{
         .p_name{
             font-size: 13px;
             margin-top: 15px;
-            margin-right:70px;
+            margin-right:80px;
         }
         .p_zam{
             font-size: 10px;
             margin-top: 10px;
-            margin-right: 80px;
+            margin-right: 90px;
         }
         .main_2{
             flex-direction: column;
