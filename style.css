@@ -173,6 +173,114 @@ footer{
     padding-top: 30px;
     margin-left: 980px;
 }
+@media screen and (max-width: 2561px) {
+    .content { 
+        width:650px;
+        }
+        header{
+            height: 50px;   
+        }
+        .main_1{
+            padding-top: 30px;
+        }
+        .navigation{
+            width: 400px;
+            padding-top: 15px;
+            margin-left: 370px;
+        }
+        .a1{
+            font-size: 13px;
+        }
+        .p_name{
+            font-size: 23px;
+            margin-top: 40px;
+        }
+        .p_zam{
+            font-size: 17px;
+            font-weight: 500;
+            text-align: center;
+            margin-top: 15px;
+        }
+        .main_2{
+            margin-top: 30px;
+            width: 650px;
+            margin-left: 0px;
+        }
+        .main_2_text_1{
+            font-size: 14px;
+            line-height: 30px;
+            margin-top: -10px;
+        }
+        .main_2_text_quote{
+            margin-top: 20px;
+            width: 260px;
+        }
+        .palka{
+            width: 0.7px;
+            height: 90px;
+        }
+        .quote_text{
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 25px;
+        }
+        .quote_name{
+            font-size: 14px;
+            margin-left: 150px;
+            margin-top: 0px;
+        }
+        .zubry{
+            width: 40%;
+            height: 40%;
+        }
+        .main_2_text{
+            margin-top: 30px;
+        }
+        .h{
+            margin-top: 30px;
+            font-size: 18px;
+        }
+        .main_4_blok{
+            width: 650px;
+            margin-left: 0px;
+            margin-top: 30px;
+        }
+        .blok{
+            border: 4px solid #E4DCCB;
+            width: 210px;    
+        }
+        .blok_text{
+            font-size: 12px;
+            line-height: 25px;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+        .main_5{
+            margin-top: 30px;
+            width: 650px;
+            margin-left: 0px;
+        }
+        .documents_img{
+            height:300px;
+        }
+        .documents_img {
+                transition: 0.8s; 
+                border: 4px solid #E4DCCB;
+                    }
+        .text_documents{
+            font-size: 14px;
+            margin-top: 10px;
+        }
+        footer{
+            height: 70px;
+            margin-top: 50px;
+        }
+        .navigation1{
+            width: 150px;
+            padding-top: 25px;
+            margin-left: 500px;
+        }
+}
 @media screen and (max-width: 1921px) {
     .content { 
         width:650px;
@@ -539,7 +647,7 @@ footer{
         .p_zam{
             font-size: 10px;
             margin-top: 10px;
-            margin-right: 95px;
+            margin-right: 110px;
         }
         .main_2{
             flex-direction: column;
