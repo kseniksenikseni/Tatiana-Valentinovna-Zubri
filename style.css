@@ -631,7 +631,7 @@ footer{
 @media screen and (max-width: 376px) {
     
     .content { 
-        width:330px;
+        width:340px;
         }
         header{
             height: 25px;   
@@ -656,7 +656,7 @@ footer{
         .p_zam{
             font-size: 10px;
             margin-top: 10px;
-            margin-right: 150px;
+            margin-right: 100px;
         }
         .main_2{
             flex-direction: column;
