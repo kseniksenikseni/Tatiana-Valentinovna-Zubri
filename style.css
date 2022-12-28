@@ -700,12 +700,20 @@ footer{
         }
         .h{
             margin-top: 100px;
+            padding-top: 50px;
             font-size: 15px;
             margin-left: -95px;
         }
+        .h11{
+            margin-top: 100px;
+            padding-top: 50px;
+            font-size: 15px;
+            margin-left: -95px;
+            padding-top: 60px;
+        }
         .main_4_blok{
             flex-direction: column;
-            height: 530px;
+            height: 560px;
             width: 650px;
             margin-left: 10px;
             margin-top: 20px;

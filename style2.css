@@ -298,7 +298,7 @@ footer{
         .navigation{
             width: 180px;
             padding-top: 0px;
-            margin-left: 80px;
+            margin-left: 120px;
         }
         .a1{
             font-size: 7px;
@@ -404,10 +404,10 @@ footer{
         .navigation1{
             width: 90px;
             padding-top: 10px;
-            margin-left: 110px;
+            margin-left: 150px;
         }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 426px) {
     .content { 
         width:330px;
         }
